@@ -1,12 +1,12 @@
 [{
   "Author": "Jawslouis",
-  "Name": "MakePlace Plugin",
-  "InternalName": "MakePlacePlugin",
-  "AssemblyVersion": "3.6.2",
+  "Name": "MakePlaceUnbound Plugin",
+  "InternalName": "MakePlaceUnboundPlugin",
+  "AssemblyVersion": "3.6.2.1",
   "Punchline": "Automatically save & load furniture layouts in your house.",
   "Description": "Automatically save & load the positions of house furniture. Import/export layouts from the MakePlace program.",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/jawslouis/MakePlacePlugin",
+  "RepoUrl": "https://github.com/Destroxy/MakePlaceUnbound",
   "Tags": [
     "makeplace",
     "housing",
@@ -15,11 +15,11 @@
   ],
   "DalamudApiLevel": 10,
   "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/icon.png",
-  "DownloadCount": 386826,
-  "DownloadLinkInstall": "https://github.com/jawslouis/MakePlacePlugin/releases/download/v3.6.2/MakePlacePlugin.zip",
-  "DownloadLinkTesting": "https://github.com/jawslouis/MakePlacePlugin/releases/download/v3.6.2/MakePlacePlugin.zip",
-  "DownloadLinkUpdate": "https://github.com/jawslouis/MakePlacePlugin/releases/download/v3.6.2/MakePlacePlugin.zip",
+  "IconUrl": "https://raw.githubusercontent.com/Destroxy/MakePlaceUnbound/master/icon.png",
+  "DownloadCount": 0,
+  "DownloadLinkInstall": "https://github.com/Destroxy/MakePlaceUnbound/releases/download/v3.6.2/MakePlacePlugin.zip",
+  "DownloadLinkTesting": "https://github.com/Destroxy/MakePlaceUnbound/releases/download/v3.6.2/MakePlacePlugin.zip",
+  "DownloadLinkUpdate": "https://github.com/Destroxy/MakePlaceUnbound/releases/download/v3.6.2/MakePlacePlugin.zip",
   "_isDip17Plugin": false,
   "_Dip17Channel": null
 }]
