@@ -160,10 +160,10 @@ namespace MakePlacePlugin.Gui
 
         private void SaveLayoutToFile()
         {
-            if (!CheckModeForSave())
+            /*if (!CheckModeForSave())
             {
                 return;
-            }
+            }*/
 
             try
             {
